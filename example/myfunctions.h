@@ -3,7 +3,7 @@
 #ifndef _MYFUNCTIONS_INCLUDED
 #define _MYFUNCTIONS_INCLUDED
 
-int add_numbers(int a, int b);
-int multiply_numbers(int a, int b);
+double add_numbers(double a, double b);
+double is_multiple(double a);
 
 #endif

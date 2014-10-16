@@ -1,5 +1,8 @@
 #CFLAGS = -g -O0
 
+AS = cc
+ASFLAGS = -c
+
 .PHONY: clean test
 
 all: myfunctions.o myfunctions_test
